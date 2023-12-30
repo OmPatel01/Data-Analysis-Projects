@@ -4,5 +4,5 @@ Explore a collection of insightful data analysis projects showcasing the power o
 Welcome to the Data Analysis Projects repository. Explore projects based on different technologies:
 
 - [SQL Projects](https://github.com/OmPatel01/SQL-Data-Analysis-.git)
-- [Python Projects](https://github.com/yourusername/Python-Projects)
+- [Python Projects](https://github.com/OmPatel01/Python-Exploratory-Data-Analysis-.git)
 - [Power BI Projects](https://github.com/yourusername/Power-BI-Projects)
