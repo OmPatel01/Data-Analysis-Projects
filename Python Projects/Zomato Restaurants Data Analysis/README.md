@@ -84,11 +84,10 @@ Explore the features of this Zomato Restaurants EDA project that provide valuabl
    - Explore the distribution of customer ratings, highlighting a generally positive sentiment but with a higher volume of ratings for lower-rated restaurants. Addressing quality improvement in these establishments is crucial.
 
 7. **Effect of Average Cost on Ratings:**
-   - Investigate the lack of a clear correlation between the average cost for two and restaurant ratings. Challenge preconceived notions and recognize the importance of factors beyond pricing in customer experience.
+   - Investigate the lack of a clear correlation between the average cost for two and restaurant ratings.
 
 8. **Premium Dining Destinations:**
-   - Identify the top 10 cities with the most expensive dining experiences. Guide strategic expansion efforts to focus on these cities and cater to specific market demands.
+   - Identify the top 10 cities with the most expensive dining experiences.
 
 9. **Price Range and Popularity:**
-   - Explore the positive correlation between price range and restaurant popularity, as indicated by customer votes. Understand customer behavior and preferences for better strategic decision-making.
-
+   - Explore the positive correlation between price range and restaurant popularity, as indicated by customer votes.
