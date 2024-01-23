@@ -8,9 +8,9 @@ Welcome to the Bike Store Analysis Power BI project! This repository presents a 
 
 Uncover essential insights derived from the analysis:
 
-- **Sales Performance:** Identify top-performing stores, sales trends over time, and contributions by product categories.
-- **Customer and Product Analysis:** Understand customer demographics, top-spending customers, and best-selling products.
-- **Operational and Inventory Insights:** Examine stock levels, order processing efficiency, and staff performance.
+- **Sales Performance:** Identify top-performing product category, sales trends over time, and sale distribution by state.
+- **Customer and Product Analysis:** Top-spending customers, analyzed price of product by brand  , and best-selling brands.
+- **Operational and Inventory Insights:** Examine stock levels, identify top performing store, and staff performance.
 
 ## Data Transformation
 
