@@ -1,4 +1,4 @@
-# Global Insights: Visualizing International Student Demographics with Power BI
+# International Student Demographics in US
 
 ## 1. Overview of Project:
 The International Student Demographics Power BI project aims to analyze and visualize data related to international student enrollment across universities in the United States. Using Power BI, we explore trends, patterns, and demographics spanning from 2007 to 2022, providing valuable insights for stakeholders in the education sector.
