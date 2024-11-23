@@ -1,4 +1,4 @@
-# SQL Data Analysis Project: BikeStore
+# Comprehensive BikeStore Analysis: Leveraging SQL for Business Insights
 
  <h3>Overview</h3>
 
